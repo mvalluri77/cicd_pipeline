@@ -11,7 +11,7 @@ public class SpringBootDockerApplication {
 
     @GetMapping("/hello")
     public String welcome(){
-        return "Welcome to spring boot docker image!!!!";
+        return "Welcome to spring boot docker images!!!!";
 
     }
 
